@@ -1,0 +1,38 @@
+body {
+    font-family: "EB Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #ECEBDE;
+    color: black;
+}
+div {
+    margin-top: 2%;  
+    text-align: center;
+}
+#photo {
+    border: 5px solid #A59D84;
+}
+h1 {
+    font-family: "EB Garamond", serif;
+    font-weight: 650;
+    font-style: normal;
+    background-color: #A59D84;
+}
+h2 {
+    font-family: "EB Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #A59D84;
+}
+h3 {
+    font-family: "EB Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #A59D84;
+}
+h4 {
+    font-family: "EB Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #A59D84;
+}

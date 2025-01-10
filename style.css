@@ -38,3 +38,16 @@ h4 {
     font-style: normal;
     background-color: #A59D84;
 }
+
+@media (max-width: 680px) {
+
+    #photo {
+        width: 50%;
+        height: 50%;
+    }
+    h1 {
+        width: 100%;
+        height: 100%;    
+    }
+
+}
